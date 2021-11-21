@@ -1,8 +1,8 @@
-## My own GitHub Page
+# My GitHub Page
 
-Thos is my second page at GitHub. 
+This is my second page at GitHub. 
 
-### Why?
+# Why?
 
 I try to learn GitHub to be good support as software tester at my e-commerce company.
 
